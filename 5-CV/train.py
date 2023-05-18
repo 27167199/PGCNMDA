@@ -3,7 +3,7 @@ sys.path.append('../')
 from model.PGCN import PGCN
 from torch import optim, nn
 from tqdm import trange
-from utils1 import k_matrix
+from utils import k_matrix
 import dgl
 import networkx as nx
 import copy

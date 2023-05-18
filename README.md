@@ -25,22 +25,22 @@ Predicting miRNA-disease associations based on graph convolutional network with 
 
 ### model
   We provide the code to construct PGCN model.
-  * PGCN.py: Construct SFGAE model
+  * PGCN.py: Construct PGCN model
 
 ### 5-CV
-  We provide the code to implement 5-CV experximents.
+  We provide the code to implement 5-CV experiment.
   * main.py: The startup code of the program
   * train.py: Train the model
   * utils.py: Methods of data processing
 
 ### 10-CV
-  We provide the code to implement 10-CV experximents.
+  We provide the code to implement 10-CV experiment.
   * main.py: The startup code of the program
   * train.py: Train the model
   * utils.py: Methods of data processing
   
 ### GLOOCV
-  We provide the code to implement GLOOCV experximent.
+  We provide the code to implement GLOOCV experiment.
   * main.py: The startup code of the program
   * train.py: Train the model
   * utils.py: Methods of data processing
